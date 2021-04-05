@@ -32,13 +32,14 @@ html {
 }
 
 #particle {
-  overflow-y: hidden;
+  overflow: hidden;
   width: 100vw;
   height: 100vh;
   position: absolute;
 }
 
 #particle2 {
+  overflow: hidden;
   width: 100%;
   height: 100%;
   position: absolute;
