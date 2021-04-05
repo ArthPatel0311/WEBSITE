@@ -582,7 +582,3 @@ a.link:hover {
     transform: translateY(16.5px);
   }
 }
-
-body {
-  overflow: scroll;
-}
